@@ -35,6 +35,22 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{codewithkushagra}/count.svg" alt="codewithkushagra :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkushagra&langs_count=10&theme=tokyonight&layout=compact" alt="codewithkushagra :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithkushagra&show_icons=true&theme=synthwave" alt="codewithkushagra :: Profile Stats" /></p>
+
+
 <!--START_SECTION:waka-->
 **I'm an night owl** 
 
@@ -69,5 +85,3 @@ Windows                  17 hrs 5 mins       ███████████�
 
 ```
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
