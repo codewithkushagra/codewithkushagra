@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Kushagra Agarwal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.sirmvit.edu/">SMVIT, Bangalore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>University Student: <a href="https://www.sirmvit.edu/">SMVIT, Bangalore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kushagr68914534?label=Follow)
