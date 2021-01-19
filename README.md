@@ -55,7 +55,7 @@ const Kushagra = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{codewithkushagra}/count.svg" alt="codewithkushagra :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :smile:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkushagra&langs_count=10&theme=tokyonight&layout=compact" alt="codewithkushagra :: Top Langs" /></p>
 
