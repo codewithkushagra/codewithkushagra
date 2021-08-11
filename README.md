@@ -13,18 +13,18 @@
 ```javascript
 const Kushagra = {
     pronouns: "He" | "Him",
-    code: ["c++", "Python", "Java", "HTML", "CSS", "JavaScript"],
-    askMeAbout: ["web dev", "opencv", "mediapipe", "app dev", "photography"],
+    code: ["c++", "Python", "Java", "HTML", "CSS", "JavaScript","wiring"],
+    askMeAbout: ["web dev", "opencv", "mediapipe", "app dev", "photography","arduino","hardware","Flask"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            Python: ["Tkinter", "QT5","Flask"],
+            Python: ["Tkinter", "QT5","react"],
             Web-dev: ["css", "HTML", "JavaScript"]
         },
         
         
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "ML"]
+        databases: ["MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "ML","adafruit"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am doing crios winter of doing and IIIT Kalayni winter of codes",
