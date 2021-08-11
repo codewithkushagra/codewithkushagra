@@ -14,11 +14,11 @@
 const Kushagra = {
     pronouns: "He" | "Him",
     code: ["c++", "Python", "Java", "HTML", "CSS", "JavaScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "opencv", "mediapipe", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            Python: ["Tkinter", "QT5"],
+            Python: ["Tkinter", "QT5","Flask"],
             Web-dev: ["css", "HTML", "JavaScript"]
         },
         
